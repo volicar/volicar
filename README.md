@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-![Vinicius Olicar's GitHub stats](https://github-readme-stats.vercel.app/api?username=volicar&show_icons=true&theme=radical)
+![Vinicius Olicar's GitHub stats](https://github-readme-stats.vercel.app/api?username=volicar&show_icons=true&theme=dracula)
 
 <!--
 - 🔭 I’m currently working on ...
