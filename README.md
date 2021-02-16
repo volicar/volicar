@@ -2,7 +2,7 @@
 
 <!--
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=volicar&show_icons=true&theme=dracula)
+![Vinicius Olicar's GitHub stats](https://github-readme-stats.vercel.app/api?username=volicar&show_icons=true&theme=dracula)!
 
 
 Here are some ideas to get you started:
