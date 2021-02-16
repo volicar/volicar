@@ -1,4 +1,4 @@
-### Hi there! I'm Vinícius 👋
+### Hi there! I'm Vinícius Olicar 👋
 
 
 
