@@ -2,10 +2,10 @@
 
 <!--
 
-![Vinicius Olicar's GitHub stats](https://github-readme-stats.vercel.app/api?username=volicar&show_icons=true&theme=dracula)!
-
 
 Here are some ideas to get you started:
+
+![Vinícius Olicar's GitHub stats](https://github-readme-stats.vercel.app/api?username=volicar&show_icons=true&theme=dracula)
 
 
 - 🔭 I’m currently working on ...
