@@ -4,7 +4,7 @@
 
 ![Vinicius Olicar's GitHub stats](https://github-readme-stats.vercel.app/api?username=volicar&show_icons=true&theme=dracula)
 
-[![My_website](https://dyn-qrcode.vercel.app/api?url=https://viniciusolicar.me)],(https://viniciusolicar.me)]
+[![My_website](https://dyn-qrcode.vercel.app/api?url=https://viniciusolicar.me)(https://viniciusolicar.me)]
 
 <!--
 - 🔭 I’m currently working on ...
