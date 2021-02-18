@@ -1,9 +1,9 @@
 ## Hello, I'm Vinícius Olicar✌🏽. I'am a software engineering student and a entrepreneur.
 ### You can contact to me on: [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-carvalho-01a6a3203/). 
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="vinícius-carvalho-01a6a3203"><a class="LI-simple-link" href='https://br.linkedin.com/in/vin%C3%ADcius-carvalho-01a6a3203?trk=profile-badge'>Vinícius Carvalho</a></div>
 
   **QRCode** with my **Website** bellow👇🏽
+  
   
 [![My_website](https://dyn-qrcode.vercel.app/api?url=https://viniciusolicar.me)](https://viniciusolicar.me)
 
