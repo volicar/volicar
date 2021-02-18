@@ -1,5 +1,6 @@
-## Hello, I'm Vinícius Olicar✌🏽. I'am a software engineering student and a entrepreneur.
-### You can contact to me on: [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-carvalho-01a6a3203/). 
+# Hello, I'm Vinícius Olicar✌🏽. 
+## I'am a software engineering student and a entrepreneur.
+### [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusolicar/)](https://www.linkedin.com/in/viniciusolicar/)
 
 
   **QRCode** with my **Website** bellow👇🏽
