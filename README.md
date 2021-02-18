@@ -1,5 +1,5 @@
 # Hello, I'm Vinícius Olicar.✌🏽
-## I'am a software engineering student and a entrepreneur.👨🏽‍💻
+## I'am a software engineering student and a entrepreneur.👨🏽‍💻 📚
 ### [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusolicar/)](https://www.linkedin.com/in/viniciusolicar/)
 
 
