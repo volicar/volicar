@@ -24,6 +24,11 @@
 -->
 These are some of the technologies and tools that I like and study:
 
+
+
+<a href="#">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" height="30" width="40">
+</a>
 <a href="#">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain-wordmark.svg" height="30" width="40">
 </a>
@@ -33,9 +38,7 @@ These are some of the technologies and tools that I like and study:
 <a href="#">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="40">
 </a>
-<a href="#">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain-wordmark.svg" height="30" width="40">
-</a>
+
 <a href="#">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" width="40">
 </a>
