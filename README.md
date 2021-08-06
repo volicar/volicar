@@ -2,12 +2,6 @@
 ## I'am a software engineering student and a entrepreneur.👨🏽‍💻 📚
 ### [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusolicar/)](https://www.linkedin.com/in/viniciusolicar/)
 
-
-  **QRCode** with my **Website** bellow👇🏽
-  
-  
-[![My_website](https://dyn-qrcode.vercel.app/api?url=https://viniciusolicar.me)](https://viniciusolicar.me)
-
 ![Vinicius Olicar's GitHub stats](https://github-readme-stats.vercel.app/api?username=volicar&show_icons=true&theme=dracula)
 
 
