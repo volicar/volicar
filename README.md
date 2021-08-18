@@ -32,7 +32,7 @@ These are some of the technologies and tools that I like and study:
 <a href="#">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="40">
 </a>
-
+<div>
 <a href="#">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" width="40">
 </a>
@@ -45,3 +45,5 @@ These are some of the technologies and tools that I like and study:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="30" width="40">
 <img src="https://img.icons8.com/color/48/000000/sass.png" height="30" width="40">
 </a>
+![Snake animation](https://github.com/volicar/volicar/blob/output/github-contribution-grid-snake.svg)
+</div>
