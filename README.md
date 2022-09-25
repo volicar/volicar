@@ -1,5 +1,5 @@
 # Hello, I'm Vinícius Olicar.✌🏽
-## I'am a software engineering student and a entrepreneur.👨🏽‍💻 📚
+## I'am a Front-end developer  at ED3 Digital 👨🏽‍💻 📚
 ### [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusolicar/)](https://www.linkedin.com/in/viniciusolicar/)
 
 ![Vinicius Olicar's GitHub stats](https://github-readme-stats.vercel.app/api?username=volicar&show_icons=true&theme=dracula)
