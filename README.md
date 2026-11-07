@@ -1,7 +1,7 @@
 <h1 align="center">Vinícius Olicar</h1>
 
 <p align="center">
-  <b>Senior Front-End & AI Engineer</b> · React · Next.js · TypeScript · LLMs<br>
+  <b>Senior Full-Stack & AI Engineer</b> · React · Next.js · TypeScript · Node.js · LLMs<br>
   Rio de Janeiro, Brazil (UTC-3) · Open to remote roles · Available now
 </p>
 
@@ -14,7 +14,7 @@
 ---
 
 I build fast, accessible web products and the AI features that make them smarter.
-13 years in front-end. Today I ship production apps with **Next.js, React and TypeScript**, and I design **LLM-powered agents** that people can trust.
+13 years in front-end, now working across the full stack. Today I ship production apps with **Next.js, React, Node.js and TypeScript**, and I design **LLM-powered agents** that people can trust.
 
 ### What I do
 
@@ -49,7 +49,7 @@ Answers customers, looks up the product catalog and generates Pix payments. A st
 
 ### Experience
 
-- **Freelance Senior Front-End, Full-Stack & AI Engineer** · 2013 to present (full-time since 2024)
+- **Freelance Senior Full-Stack, Front-End & AI Engineer** · 2013 to present (full-time since 2024)
 - **Front-End Developer at ED3 Digital** · 2022 to 2023, VTEX IO e-commerce storefronts for retail clients
 
-<sub>Open to Senior Front-End, Full-Stack and AI Engineer roles, remote. The fastest way to reach me is email or LinkedIn.</sub>
+<sub>Open to Senior Full-Stack, Front-End and AI Engineer roles, remote. The fastest way to reach me is email or LinkedIn.</sub>
