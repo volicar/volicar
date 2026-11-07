@@ -32,6 +32,10 @@ Built end to end: the public site plus an admin area with a custom CMS, image up
 
 Answers customers, looks up the product catalog and generates Pix payments. A state machine lets the model run the conversation while deterministic code owns prices and payments, with escalation to a human on edge cases.
 
+**[cite-or-silence](https://github.com/volicar/cite-or-silence)** · Next.js · TypeScript · Supabase pgvector · Claude
+
+A RAG assistant that answers with verifiable citations, or stays silent. Retrieval gates the model call, a citation check rejects unsupported answers, and an offline eval runs in CI as a regression gate.
+
 ### Stack
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
