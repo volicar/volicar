@@ -51,9 +51,3 @@ A RAG assistant that answers with verifiable citations, or stays silent. Retriev
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logoColor=white)
 
-### Experience
-
-- **Freelance Senior Full-Stack, Front-End & AI Engineer** · 2013 to present (full-time since 2024)
-- **Front-End Developer at ED3 Digital** · 2022 to 2023, VTEX IO e-commerce storefronts for retail clients
-
-<sub>Open to Senior Full-Stack, Front-End and AI Engineer roles, remote. The fastest way to reach me is email or LinkedIn.</sub>
